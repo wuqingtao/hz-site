@@ -1,0 +1,16 @@
+{
+  "name": "hz-site",
+  "version": "1.0.0",
+  "description": "hongzhong's site",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/js",
+    "build": "webpack"
+  },
+  "author": "hz",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.0.1",
+    "pug": "^2.0.0-beta6"
+  }
+}
