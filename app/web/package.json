@@ -1,16 +1,15 @@
 {
   "name": "hz-site",
   "version": "1.0.0",
-  "description": "hongzhong's site",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/js",
-    "build": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "hz",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "copy-webpack-plugin": "^4.0.1",
-    "pug": "^2.0.0-beta6"
+    "copy": "^0.3.0",
+    "file-traversal": "^1.1.0"
   }
 }
